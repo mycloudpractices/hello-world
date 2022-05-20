@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="Alt-Mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="Alt-Mobile" id="Alt-Mobile" required>
+    <label for="Alternate Mobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Alternate moible number" name="Alternate Mobile" id="Alternate Mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
