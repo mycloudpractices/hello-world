@@ -18,6 +18,10 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
+    <label for="Alternate Mobile"><b>Enter Alternate mobile</b></label>
+    <input type="text" placeholder="Alternate moible number" name="Alternate Mobile" id="Alternate Mobile" required>
+    <br>
+
     <label for="Name"><b>Mother's Mother's First Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
 
@@ -34,11 +38,6 @@
 
     <label for="Mobile"><b>Enter Mother's alternate mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
-
-
-    <label for="Alternate Mobile"><b>Enter Alternate mobile</b></label>
-    <input type="text" placeholder="Alternate moible number" name="Alternate Mobile" id="Alternate Mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
