@@ -14,6 +14,10 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
+    <label for="Mobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <br>
+
     <label for="Name"><b>Mother's Mother's First Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
 
@@ -24,7 +28,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="Mobile"><b>Enter mobile</b></label>
+    <label for="Mobile"><b>Mother's Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
